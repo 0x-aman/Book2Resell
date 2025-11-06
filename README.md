@@ -34,7 +34,7 @@ Notes:
 ## Frontend Setup
 1. Install deps:
    ```bash
-   cd frontend
+   
    npm install
    npm run dev
    ```
